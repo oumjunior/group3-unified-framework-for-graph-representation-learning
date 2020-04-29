@@ -1,0 +1,6 @@
+*.out
+*.log
+*.pdf
+*venv
+*.pyc
+*.pickle
